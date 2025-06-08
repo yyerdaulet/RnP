@@ -4,3 +4,6 @@ is.xlsx
 is_data.csv
 requirements.txt
 dataset
+create_project.py
+csv_processor.log
+eda.py
